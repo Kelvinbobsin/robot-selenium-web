@@ -6,3 +6,4 @@
 
 - cd robot_tests
 - robot teste2.robot
+.
